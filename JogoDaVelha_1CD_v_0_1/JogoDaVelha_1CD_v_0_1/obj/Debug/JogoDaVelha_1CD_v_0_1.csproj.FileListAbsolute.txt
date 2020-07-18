@@ -1,0 +1,9 @@
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\bin\Debug\JogoDaVelha_1CD_v_0_1.exe
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\bin\Debug\JogoDaVelha_1CD_v_0_1.pdb
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.csprojAssemblyReference.cache
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.Form1.resources
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.Properties.Resources.resources
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.csproj.GenerateResource.cache
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.exe
+C:\Users\Giovan\source\repos\JogoDaVelha_1CD_v_0_1\JogoDaVelha_1CD_v_0_1\obj\Debug\JogoDaVelha_1CD_v_0_1.pdb
